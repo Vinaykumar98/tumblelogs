@@ -1,0 +1,200 @@
+.box
+{
+  padding: 10px;
+  margin: 10px 450px;
+  border: 1px solid #6600CC;
+  border-radius: 5;
+  background-color:#6600CC;
+  width: 400px;
+}
+#in{
+  width:400px;
+  height: 300px;
+  font-size: 24;
+    background-color:grey;
+
+}
+#select{
+  width: 200px;
+  height: 100px;
+}
+
+.comment{
+  width:300px;
+  border-radius: 10;
+}
+h2{
+  text-align: center;
+  color:  #CC3399;
+}
+#post
+{
+  width: 100px;
+  height: 25px;
+  border: 10;
+  color: blue;
+ margin-top: 5;
+}
+#buttonstyle
+{
+  border : 0px;
+  background-color:grey;
+  height : 50px;
+  width : 80px;
+  /*transform: perspective(1px) translateZ(0);*/
+}
+#buttonstylex
+{
+  border : 0px;
+  background-color:#000066;
+  height : 50px;
+  width : 80px;
+  font-weight: bold;
+  font-family: sans-serif;
+  /*transform: perspective(1px) translateZ(0);*/
+}
+#buttonstyler
+{
+  border : 0px;
+  background-color:#eee;
+  height : 50px;
+  width : 80px;
+  font-weight: bold;
+  font-family: sans-serif;
+  /*transform: perspective(1px) translateZ(0);*/
+}
+
+body {
+	margin:0 auto;
+	font-size:100%;
+    background: url("./img/origami2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-origin: content-box;
+	}
+
+  #art {
+  	margin:0 auto;
+  	font-size:100%;
+      background: url("./img/origami.jpg");
+      background-repeat: no-repeat;
+      background-size: 100% 100%;
+      background-origin: content-box;
+        position: fixed;
+
+  	}
+    #food {
+    	margin:0 auto;
+    	font-size:100%;
+        background: url("./img/origami.jpg");
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-origin: content-box;
+
+    	}
+      #fashion {
+        margin:0 auto;
+        font-size:100%;
+          background: url("./img/fashion.jpg");
+          background-repeat: no-repeat;
+          background-size: 100% 100%;
+          background-origin: content-box;
+
+        }
+        #cinema {
+          margin:0 auto;
+          font-size:100%;
+            background: url("./img/cinema.jpg");
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+            background-origin: content-box;
+
+          }
+
+      #business {
+      	margin:0 auto;
+      	font-size:100%;
+          background: url("./img/business.jpeg");
+          background-repeat: no-repeat;
+          background-size: 100% 100%;
+          background-origin: content-box;
+      	}
+        #travel{
+          margin:0 auto;
+          font-size:100%;
+            background: url("./img/travel.jpg");
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+            background-origin: content-box;
+          }
+          #art{
+            margin:0 auto;
+            font-size:100%;
+              background: url("./img/art.jpg");
+              background-repeat: no-repeat;
+              background-size: 100% 100%;
+              background-origin: content-box;
+            }
+        #motivation {
+          margin:0 auto;
+          font-size:100%;
+            background: url("./img/motivation.jpg");
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+            background-origin: content-box;
+            position: fixed;
+          }
+          #discussion{
+            margin:0 auto;
+            font-size:100%;
+              background: url("./img/discussion.jpg");
+              background-repeat: no-repeat;
+              background-size: 100% 100%;
+              background-origin: content-box;
+              position: fixed;
+            }
+          #health {
+            margin:0 auto;
+            font-size:100%;
+              background: url("./img/health.jpg");
+              background-repeat: no-repeat;
+              background-size: 100% 100%;
+              background-origin: content-box;
+              position: fixed;
+            }
+
+    #dating {
+      margin:0 auto;
+      font-size:100%;
+      background-image: url("./img/dating.jpg");
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-origin: content-box;
+      }
+
+h1 {
+  color : #CC3399;
+    margin: 10px 550px;
+  text-decoration: line-through;
+  font-size: 45;
+  font-family: monospace;
+}
+h3 {
+  color :#6600FF;
+  text-align: center;
+  font-family:  cursive;
+text-shadow: 10;
+  font-size: 24;
+}
+
+
+.com
+{
+padding: 6px;
+  margin: 1px 50px;
+  background: #fff;
+}
+.tiles
+{
+  text-align: center;
+}
