@@ -1,5 +1,5 @@
-** tumblelogs **
-##Simple microblogging site
+**tumblelogs**
+## Simple microblogging site  
 
-##Issues 
-1.Background image is not fixed!
+### Issues :
+* Background image is not fixed!
